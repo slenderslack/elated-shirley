@@ -1,1 +1,1 @@
-FROM kibana:7.5.0
+FROM kibana:7.5.0@sha256:bc4ca126e612805084c6f59cc939ae2564f162b9fe5fb6fd7524c85680a4732c
