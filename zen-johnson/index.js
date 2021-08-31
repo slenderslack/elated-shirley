@@ -1,1 +1,1 @@
-console.info("0");
+console.info("1");
