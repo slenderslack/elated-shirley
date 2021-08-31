@@ -1,3 +1,5 @@
 FROM node:10-slim
 
-CMD ["node", "--version"]
+COPY index.js index.js
+
+CMD ["node", "index.js"]
