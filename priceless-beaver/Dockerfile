@@ -1,1 +1,1 @@
-FROM ubuntu:20.04 AS build
+FROM ubuntu:20.04@sha256:19daef9143eddc6759cfad360cfbc77108d7ede0853ce1915d2dfe9f0d163100 AS build
