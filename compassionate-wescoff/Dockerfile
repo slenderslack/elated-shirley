@@ -1,1 +1,1 @@
-FROM python:3.9.5-buster
+FROM python:3.9.5-buster@sha256:bb738a13e61033430204bc70344a87f4db911c024bb5374d71dd94646ac46d67
