@@ -1,1 +1,1 @@
-FROM cyb3rward0g/helk-base:0.0.1
+FROM cyb3rward0g/helk-base:0.0.1@sha256:c8e1d828db0c2b243afb4d797263e5076aa1fbc8a8c8751838f4044f1169a45f
