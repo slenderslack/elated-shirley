@@ -1,3 +1,3 @@
-FROM ubuntu:20.04 AS build
+FROM ubuntu:20.04@sha256:b5a61709a9a44284d88fb12e5c48db0409cfad5b69d4ff8224077c57302df9cf AS build
 
 CMD ["/bin/bash","-c","echo 0"]
