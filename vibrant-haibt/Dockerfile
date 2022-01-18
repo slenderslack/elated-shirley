@@ -1,1 +1,1 @@
-FROM ubuntu:bionic as sawtooth-validator-builder
+FROM ubuntu:bionic@sha256:37b7471c1945a2a12e5a57488ee4e3e216a8369d0b9ee1ec2e41db9c2c1e3d22 as sawtooth-validator-builder
